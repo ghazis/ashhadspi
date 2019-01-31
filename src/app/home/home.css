@@ -1,0 +1,17 @@
+.header-container{
+  height: 99px;
+  width: 100%;
+  background-color: #F5F6F7;
+}
+.header{
+  padding-top:30px;
+  font-size:28px;
+}
+.input-section{
+  margin-top:60px;
+}
+.store-btn{
+  font-size:18px;
+  margin-top:20px;
+  padding:10px;
+}
